@@ -1,0 +1,10 @@
+{
+  "name": "naive",
+  "description": "A package using naive versioning",
+  "author": "",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  },
+  "engine": "node 5.0.0"
+}
